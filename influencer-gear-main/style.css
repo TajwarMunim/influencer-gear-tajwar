@@ -13,6 +13,7 @@ body{
     
     font-family: 'Roboto', sans-serif;
     background-color:white;
+    margin: 0px;
 }
 body p{
    
@@ -206,8 +207,11 @@ header{
 .footer-section h3{
    font-size: 30px;
 }
-.footer-sec2{
+.footer-sec2 a{
     text-decoration: none;
+    color: white;
+    padding-right: 10px;
+     
 }
 
 
@@ -251,7 +255,7 @@ header{
         padding-left: 0px;
         margin-left: 0px;
         width: 100%;
-        height: 800px;
+        height: 1000px;
     }
     .bonus-des{
         width: 50%;
